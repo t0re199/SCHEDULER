@@ -1,6 +1,6 @@
 # README #
 
-This is a Java implementation of a Scheduler with constraints which uses the **backtraing** algorithm. 
+This is a Java implementation of a Scheduler with constraints which uses the **backtracking** algorithm. 
       
 Several **Design Patterns** such as:   
 * Decorator   
